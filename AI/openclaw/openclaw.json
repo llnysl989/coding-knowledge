@@ -1,0 +1,260 @@
+{
+  "env": {
+    "vars": {
+      "ANTHROPIC_AUTH_TOKEN": "IPS_3003fe67f897fc12f90438755dbbf7861778032972"
+    }
+  },
+  "models": {
+    "mode": "merge",
+    "providers": {
+      "vllm-cn": {
+        "baseUrl": "http://openproxy-cn.zuoyebang.cc/openproxy/rp/v1",
+        "apiKey": "zyb-bd05e6f4eee90cbf4336b8c5265b76be@ugcdata_coding",
+        "api": "openai-completions",
+        "models": [
+          {
+            "id": "zyb/MiniMax-M2.5",
+            "name": "MiniMax-M2.5 ",
+            "reasoning": false,
+            "input": [
+              "text"
+            ],
+            "cost": {
+              "input": 0,
+              "output": 0,
+              "cacheRead": 0,
+              "cacheWrite": 0
+            },
+            "contextWindow": 128000,
+            "maxTokens": 8192
+          }
+        ]
+      },
+      "anthropic": {
+        "baseUrl": "https://openproxy.zuoyebang.cc/openproxy/rp/pt/anthropic",
+        "apiKey": "zyb-efa578f7e371a49dedc03a8b9a600147@yewuzhongtai_coding",
+        "api": "anthropic-messages",
+        "models": [
+          {
+            "id": "claude-opus-4-6",
+            "name": "Claude Opus 4.6",
+            "reasoning": true,
+            "input": [
+              "text",
+              "image"
+            ],
+            "contextWindow": 200000,
+            "maxTokens": 8192
+          },
+          {
+            "id": "claude-sonnet-4-6",
+            "name": "Claude Sonnet 4.6",
+            "reasoning": false,
+            "input": [
+              "text",
+              "image"
+            ],
+            "contextWindow": 128000,
+            "maxTokens": 16384
+          }
+        ]
+      },
+      "vllm": {
+        "baseUrl": "http://openproxy.znzt-growth.zuoyebang.dd/openproxy/rp/v1",
+        "apiKey": "zyb-efa578f7e371a49dedc03a8b9a600147@yewuzhongtai_coding",
+        "api": "openai-completions",
+        "models": [
+          {
+            "id": "gemini-3.1-pro-preview",
+            "name": "Gemini 3.1 Pro Preview",
+            "reasoning": false,
+            "input": [
+              "text"
+            ],
+            "cost": {
+              "input": 0,
+              "output": 0,
+              "cacheRead": 0,
+              "cacheWrite": 0
+            },
+            "contextWindow": 128000,
+            "maxTokens": 8192
+          },
+          {
+            "id": "gemini-3-flash-preview",
+            "name": "Gemini 3 flash Preview",
+            "reasoning": false,
+            "input": [
+              "text"
+            ],
+            "cost": {
+              "input": 0,
+              "output": 0,
+              "cacheRead": 0,
+              "cacheWrite": 0
+            },
+            "contextWindow": 128000,
+            "maxTokens": 8192
+          }
+        ]
+      }
+    }
+  },
+  "agents": {
+    "defaults": {
+      "userTimezone": "Asia/Shanghai",
+      "model": {
+        "primary": "vllm/gemini-3-flash-preview"
+      },
+      "workspace": "/home/node/.openclaw/workspace",
+      "compaction": {
+        "mode": "safeguard"
+      },
+      "maxConcurrent": 4,
+      "subagents": {
+        "maxConcurrent": 8,
+        "maxSpawnDepth": 2
+      },
+      "contextPruning": {
+        "ttl": "12h"
+      }
+    },
+    "list": [
+      {
+        "id": "main",
+        "default": true,
+        "name": "用户增长AI",
+        "workspace": "/home/node/.openclaw/workspace"
+      },
+      {
+        "id": "lanjing",
+        "name": "蓝鲸数据分析",
+        "workspace": "/home/node/.openclaw/workspace-lanjing"
+      }
+    ]
+  },
+  "gateway": {
+    "mode": "local",
+    "auth": {
+      "mode": "token",
+      "token": "21792f0ce5d0fc6da032fe2970d902990290e24d18441f590eb527907ab083c5"
+    },
+    "port": 18789,
+    "bind": "loopback",
+    "tailscale": {
+      "mode": "off",
+      "resetOnExit": false
+    },
+    "controlUi": {
+      "allowInsecureAuth": true,
+      "allowedOrigins": [
+        "https://ugc-data.zuoyebang.cc",
+        "http://localhost:18889",
+        "http://127.0.0.1:18889",
+        "http://10.106.192.226:18889"
+      ]
+    },
+    "nodes": {
+      "denyCommands": [
+        "camera.snap",
+        "camera.clip",
+        "screen.record",
+        "contacts.add",
+        "calendar.add",
+        "reminders.add",
+        "sms.send",
+        "sms.search"
+      ]
+    },
+    "trustedProxies": [
+      "10.106.192.226"
+    ]
+  },
+  "session": {
+    "dmScope": "per-channel-peer",
+    "maintenance": {
+      "mode": "enforce",
+      "pruneAfter": "2d",
+      "maxEntries": 10
+    }
+  },
+  "tools": {
+    "profile": "full",
+    "web": {
+      "search": {
+        "enabled": true
+      },
+      "fetch": {
+        "enabled": true
+      }
+    },
+    "sessions": {
+      "visibility": "all"
+    }
+  },
+  "meta": {
+    "lastTouchedVersion": "2026.5.22",
+    "lastTouchedAt": "2026-05-29T07:39:22.814Z"
+  },
+  "plugins": {
+    "entries": {
+      "dingtalk-connector": {
+        "enabled": true
+      }
+    }
+  },
+  "channels": {
+    "dingtalk-connector": {
+      "enabled": true,
+      "asyncMode": true,
+      "groupReplyMode": "markdown",
+      "accounts": {
+        "lanjing": {
+          "enabled": true,
+          "clientId": "dingjt26xxbderqneqeh",
+          "clientSecret": "oUBnZXdxXbtF9H1sIxb_ZGxlPeQLPEP9C69D9a2K2-IL0R0OwMlWFJ0IQzz8HIQD",
+          "asyncMode": true,
+          "groupReplyMode": "markdown",
+          "dmPolicy": "open",
+          "groupPolicy": "open",
+          "requireMention": true,
+          "separateSessionByConversation": true,
+          "groupSessionScope": "group"
+        },
+        "main": {
+          "enabled": true,
+          "clientId": "dingo6ifkblfdtwudnsx",
+          "clientSecret": "p9k5rdVDCOqmns64pMd7Sx-Yv-FF69lF7sNdm9hbzBlDYde0EqCKeBBhNPcOLL5J",
+          "asyncMode": true,
+          "groupReplyMode": "markdown",
+          "dmPolicy": "open",
+          "groupPolicy": "open",
+          "requireMention": true,
+          "separateSessionByConversation": true,
+          "sharedMemoryAcrossConversations": false,
+          "groupSessionScope": "group"
+        }
+      }
+    }
+  },
+  "messages": {
+    "groupChat": {
+      "visibleReplies": "automatic"
+    }
+  },
+  "bindings": [
+    {
+      "agentId": "lanjing",
+      "match": {
+        "channel": "dingtalk-connector",
+        "accountId": "lanjing"
+      }
+    },
+    {
+      "agentId": "main",
+      "match": {
+        "channel": "dingtalk-connector"
+      }
+    }
+  ]
+}
