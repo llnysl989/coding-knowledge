@@ -75,25 +75,6 @@ function buildMockDecision(messages) {
     };
   }
 
-  if (input.includes("agent") || input.includes("prompt") || input.includes("tool")) {
-    return {
-      role: "assistant",
-      content: "",
-      tool_calls: [
-        {
-          id: "mock-tool-docs",
-          type: "function",
-          function: {
-            name: "search_demo_docs",
-            arguments: JSON.stringify({
-              keyword: "agent",
-            }),
-          },
-        },
-      ],
-    };
-  }
-
   return {
     role: "assistant",
     content:

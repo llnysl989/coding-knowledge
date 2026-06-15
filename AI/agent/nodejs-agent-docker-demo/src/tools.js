@@ -1,30 +1,36 @@
+import fs from "node:fs/promises";
+import path from "node:path";
+
 import { logger } from "./logger.js";
 
-const demoDocs = [
-  "Agent = Prompt + Model + Tool/Skill + Runtime + Memory + Channel",
-  "Prompt is the instruction and context sent together with the user input.",
-  "Tools are predefined capabilities implemented by the program.",
-  "The model decides what to do next, but the program performs the real execution.",
-];
+const workspaceRoot = process.cwd();
+
+function resolveWorkspacePath(filename) {
+  const normalized = String(filename || "").trim();
+
+  if (!normalized) {
+    throw new Error("filename must be a non-empty relative path");
+  }
+
+  if (path.isAbsolute(normalized)) {
+    throw new Error("absolute paths are not allowed");
+  }
+
+  const targetPath = path.resolve(workspaceRoot, normalized);
+  const relativePath = path.relative(workspaceRoot, targetPath);
+
+  if (relativePath.startsWith("..") || path.isAbsolute(relativePath)) {
+    throw new Error("path must stay inside the workspace root");
+  }
+
+  return {
+    normalized,
+    targetPath,
+    relativePath: relativePath || path.basename(targetPath),
+  };
+}
 
 export const toolDefinitions = [
-  {
-    type: "function",
-    function: {
-      name: "search_demo_docs",
-      description: "Search the built-in demo knowledge base with a keyword.",
-      parameters: {
-        type: "object",
-        properties: {
-          keyword: {
-            type: "string",
-            description: "Keyword used to search the demo docs.",
-          },
-        },
-        required: ["keyword"],
-      },
-    },
-  },
   {
     type: "function",
     function: {
@@ -57,23 +63,31 @@ export const toolDefinitions = [
       },
     },
   },
+  {
+    type: "function",
+    function: {
+      name: "create_file",
+      description:
+        "Create a new file inside the current workspace using a safe relative path. Do not use absolute paths.",
+      parameters: {
+        type: "object",
+        properties: {
+          filename: {
+            type: "string",
+            description: "Relative file path inside the workspace, for example aa.log or notes/todo.md.",
+          },
+          content: {
+            type: "string",
+            description: "Optional text content written into the new file.",
+          },
+        },
+        required: ["filename"],
+      },
+    },
+  },
 ];
 
 const toolHandlers = {
-  async search_demo_docs({ keyword }) {
-    const normalized = String(keyword || "").toLowerCase().trim();
-
-    logger.info("tools.search_demo_docs.start", { keyword: normalized });
-
-    const matches = demoDocs.filter((item) => item.toLowerCase().includes(normalized));
-    const result =
-      matches.length > 0 ? matches.join("\n") : `No demo documents matched keyword: ${normalized}`;
-
-    logger.info("tools.search_demo_docs.finish", { matchCount: matches.length });
-
-    return result;
-  },
-
   async add_numbers({ a, b }) {
     logger.info("tools.add_numbers.start", { a, b });
     const sum = Number(a) + Number(b);
@@ -85,6 +99,51 @@ const toolHandlers = {
     const currentTime = new Date().toISOString();
     logger.info("tools.get_current_time.finish", { currentTime });
     return `Current server time: ${currentTime}`;
+  },
+
+  async create_file({ filename, content = "" }) {
+    logger.info("tools.create_file.start", {
+      filename,
+      contentLength: typeof content === "string" ? content.length : String(content || "").length,
+      workspaceRoot,
+    });
+
+    let targetInfo;
+    try {
+      targetInfo = resolveWorkspacePath(filename);
+    } catch (error) {
+      const message = error instanceof Error ? error.message : String(error);
+      logger.warn("tools.create_file.rejected", { filename, reason: message });
+      return `Refused to create file: ${message}`;
+    }
+
+    try {
+      await fs.mkdir(path.dirname(targetInfo.targetPath), { recursive: true });
+      await fs.writeFile(targetInfo.targetPath, String(content || ""), {
+        encoding: "utf8",
+        flag: "wx",
+      });
+    } catch (error) {
+      const message = error instanceof Error ? error.message : String(error);
+
+      if (error && typeof error === "object" && "code" in error && error.code === "EEXIST") {
+        logger.warn("tools.create_file.exists", { filename: targetInfo.relativePath });
+        return `File already exists: ${targetInfo.relativePath}`;
+      }
+
+      logger.error("tools.create_file.failed", {
+        filename: targetInfo.relativePath,
+        error: message,
+      });
+      throw error;
+    }
+
+    logger.info("tools.create_file.finish", {
+      filename: targetInfo.relativePath,
+      targetPath: targetInfo.targetPath,
+    });
+
+    return `File created successfully: ${targetInfo.relativePath}`;
   },
 };
 

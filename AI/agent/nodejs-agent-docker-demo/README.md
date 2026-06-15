@@ -40,9 +40,9 @@ nodejs-agent-docker-demo
 
 这个 Demo 内置了 3 个最小 tool：
 
-- `search_demo_docs`：搜索内置知识片段
 - `add_numbers`：做加法
 - `get_current_time`：返回当前服务器时间
+- `create_file`：在当前工作目录下创建新文件
 
 你可以把它理解成一个“教学版 agent”，重点是演示 Agent 的运行机制，而不是 tool 本身有多复杂。
 
@@ -240,13 +240,27 @@ curl -X POST http://localhost:3000/api/chat \
   -d '{"input":"请帮我计算 12 + 30"}'
 ```
 
-### 示例 3：问 agent 概念
+### 示例 3：直接问模型概念问题
 
 ```bash
 curl -X POST http://localhost:3000/api/chat \
   -H "Content-Type: application/json" \
   -d '{"input":"agent 和 tool 的关系是什么"}'
 ```
+
+### 示例 4：让它创建文件
+
+```bash
+curl -X POST http://localhost:3000/api/chat \
+  -H "Content-Type: application/json" \
+  -d '{"input":"帮我创建一个文件，名字是 aa.log，内容是 hello"}'
+```
+
+这个 tool 有 3 个安全限制：
+
+- 只允许相对路径，例如 `aa.log` 或 `notes/todo.md`
+- 不允许绝对路径
+- 不允许通过 `../` 跳出当前工作目录
 
 如果你看到日志里出现这些关键字，说明 Agent 的最小闭环已经打通：
 
@@ -325,9 +339,9 @@ curl -X POST http://localhost:3000/api/chat \
 比如你可以替换成：
 
 - 查询订单状态
-- 搜索知识库
 - 查询数据库
 - 调内部 API
+- 创建文件
 - 发机器人消息
 
 ---
