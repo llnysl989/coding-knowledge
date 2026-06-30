@@ -1,3 +1,14 @@
+error id: file://<WORKSPACE>/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java:_empty_/SingleOutputStreamOperator#
+file://<WORKSPACE>/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java
+empty definition using pc, found symbol in pc: _empty_/SingleOutputStreamOperator#
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 1649
+uri: file://<WORKSPACE>/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java
+text:
+```scala
 package com.koolearn.flink.wordcount;
 
 import java.util.List;
@@ -44,7 +55,7 @@ public final class WordCountJob {
     
     DataStream<String> lines = env.fromCollection(jobArgs.textLines);
 
-    SingleOutputStreamOperator<WordCount> wordCounts =
+    DataStream<WordCount> wordCounts =
         lines
             .flatMap(new SplitToWords())
             .assignTimestampsAndWatermarks(WatermarkStrategy.noWatermarks())
@@ -52,7 +63,7 @@ public final class WordCountJob {
             .keyBy(new WordKey())
             .reduce(new SumCounts());
 
-    wordCounts.name("wordcount-result").print().name("stdout-sink");
+    ((@@SingleOutputStreamOperator<String>) wordCounts).name("wordcount-result").print().name("stdout-sink");
 
     env.execute("java-wordcount");
   }
@@ -155,3 +166,10 @@ public final class WordCountJob {
     }
   }
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: _empty_/SingleOutputStreamOperator#

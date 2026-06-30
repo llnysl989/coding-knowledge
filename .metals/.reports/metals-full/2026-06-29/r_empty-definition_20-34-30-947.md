@@ -1,3 +1,14 @@
+error id: file://<WORKSPACE>/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java:_empty_/StreamExecutionEnvironment#fromCollection#
+file://<WORKSPACE>/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java
+empty definition using pc, found symbol in pc: _empty_/StreamExecutionEnvironment#fromCollection#
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 1260
+uri: file://<WORKSPACE>/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java
+text:
+```scala
 package com.koolearn.flink.wordcount;
 
 import java.util.List;
@@ -7,7 +18,6 @@ import org.apache.flink.api.common.functions.MapFunction;
 import org.apache.flink.api.common.functions.ReduceFunction;
 import org.apache.flink.api.java.functions.KeySelector;
 import org.apache.flink.streaming.api.datastream.DataStream;
-import org.apache.flink.streaming.api.datastream.SingleOutputStreamOperator;
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 import org.apache.flink.util.Collector;
 
@@ -42,9 +52,9 @@ public final class WordCountJob {
 
 
     
-    DataStream<String> lines = env.fromCollection(jobArgs.textLines);
+    DataStream<String> lines = env.fromColl@@ection(jobArgs.textLines);
 
-    SingleOutputStreamOperator<WordCount> wordCounts =
+    DataStream<WordCount> wordCounts =
         lines
             .flatMap(new SplitToWords())
             .assignTimestampsAndWatermarks(WatermarkStrategy.noWatermarks())
@@ -155,3 +165,10 @@ public final class WordCountJob {
     }
   }
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: _empty_/StreamExecutionEnvironment#fromCollection#

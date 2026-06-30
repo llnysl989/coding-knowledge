@@ -1,0 +1,494 @@
+2026.06.29 20:33:41 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.06.29 20:33:42 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:33:42 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:33:43 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:33:42 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:33:43 WARN  no build tool detected in workspace '/Users/zyb/project/coding-knowledge'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.06.29 20:33:43 WARN  Build server is not auto-connectable.
+2026.06.29 20:33:43 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java
+2026.06.29 20:33:43 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:33:43 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:33:44 INFO  time: code lens generation in 1.18s
+2026.06.29 20:33:48 INFO  Shutting down server
+2026.06.29 20:33:48 INFO  Memory monitor stopped
+2026.06.29 20:33:48 INFO  shutting down Metals
+2026.06.29 20:33:48 INFO  Exiting server
+2026.06.29 20:34:02 INFO  Started: Metals version 1.6.7 in folders '/Users/zyb/project/coding-knowledge' for client Trae 1.107.1.
+2026.06.29 20:34:02 INFO  Memory monitor started
+2026.06.29 20:34:05 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.06.29 20:34:05 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:06 WARN  no build tool detected in workspace '/Users/zyb/project/coding-knowledge'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.06.29 20:34:06 WARN  Build server is not auto-connectable.
+2026.06.29 20:34:06 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java
+6月 29, 2026 8:34:07 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1
+2026.06.29 20:34:07 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:07 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+6月 29, 2026 8:34:07 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 5
+2026.06.29 20:34:08 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:09 INFO  time: code lens generation in 2.6s
+2026.06.29 20:34:09 INFO  time: code lens generation in 2.22s
+2026.06.29 20:34:10 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:10 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:10 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:10 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:10 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:12 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:12 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:13 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:16 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:16 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:16 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:18 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:26 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java
+2026.06.29 20:34:26 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:28 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:28 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:28 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:30 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:30 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:30 INFO  Created report: Optional[file:///Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java]
+2026.06.29 20:34:30 INFO  empty definition using pc, found symbol in pc: _empty_/StreamExecutionEnvironment#fromCollection# (full report at: "/Users/zyb/project/coding-knowledge/.metals/.reports/metals-full/2026-06-29/r_empty-definition_20-34-30-947.md")
+2026.06.29 20:34:31 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:30 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:31 INFO  Created report: Optional[file:///Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java]
+2026.06.29 20:34:31 INFO  empty definition using pc, found symbol in pc: _empty_/StreamExecutionEnvironment# (full report at: "/Users/zyb/project/coding-knowledge/.metals/.reports/metals-full/2026-06-29/r_empty-definition_20-34-31-351.md")
+2026.06.29 20:34:32 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:32 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:32 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:32 INFO  empty definition using pc, found symbol in pc: _empty_/StreamExecutionEnvironment# (full report at: "/Users/zyb/project/coding-knowledge/.metals/.reports/metals-full/2026-06-29/r_empty-definition_20-34-31-351.md")
+2026.06.29 20:34:32 INFO  empty definition using pc, found symbol in pc: _empty_/StreamExecutionEnvironment# (full report at: "/Users/zyb/project/coding-knowledge/.metals/.reports/metals-full/2026-06-29/r_empty-definition_20-34-31-351.md")
+2026.06.29 20:34:32 INFO  empty definition using pc, found symbol in pc: _empty_/StreamExecutionEnvironment# (full report at: "/Users/zyb/project/coding-knowledge/.metals/.reports/metals-full/2026-06-29/r_empty-definition_20-34-31-351.md")
+2026.06.29 20:34:32 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:32 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:32 INFO  Created report: Optional[file:///Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java]
+2026.06.29 20:34:32 INFO  empty definition using pc, found symbol in pc: _empty_/StreamExecutionEnvironment#getExecutionEnvironment# (full report at: "/Users/zyb/project/coding-knowledge/.metals/.reports/metals-full/2026-06-29/r_empty-definition_20-34-33-188.md")
+2026.06.29 20:34:33 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:33 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:33 INFO  empty definition using pc, found symbol in pc: _empty_/StreamExecutionEnvironment#getExecutionEnvironment# (full report at: "/Users/zyb/project/coding-knowledge/.metals/.reports/metals-full/2026-06-29/r_empty-definition_20-34-33-188.md")
+2026.06.29 20:34:33 INFO  empty definition using pc, found symbol in pc: _empty_/StreamExecutionEnvironment#getExecutionEnvironment# (full report at: "/Users/zyb/project/coding-knowledge/.metals/.reports/metals-full/2026-06-29/r_empty-definition_20-34-33-188.md")
+2026.06.29 20:34:32 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:39 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:39 INFO  Created report: Optional[file:///Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java]
+2026.06.29 20:34:39 INFO  missing def: StreamExecutionEnvironment#getExecutionEnvironment# (full report at: "/Users/zyb/project/coding-knowledge/.metals/.reports/metals-full/2026-06-29/r_missing-definition_20-34-39-878.md")
+2026.06.29 20:34:39 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:39 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+6月 29, 2026 8:34:40 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+警告: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "jdt://contents/flink-streaming-java-1.20.0.jar/org.apache.flink.streaming.api.environment/StreamExecutionEnvironment.java?%3Dflink-java-wordcount%2F%5C%2FUsers%5C%2Fzyb%5C%2F.m2%5C%2Frepository%5C%2Forg%5C%2Fapache%5C%2Fflink%5C%2Fflink-streaming-java%5C%2F1.20.0%5C%2Fflink-streaming-java-1.20.0.jar%3D%2Fmaven.pomderived%3D%2Ftrue%3D%2F%3D%2Fjavadoc_location%3D%2Fjar%3Afile%3A%5C%2FUsers%5C%2Fzyb%5C%2F.m2%5C%2Frepository%5C%2Forg%5C%2Fapache%5C%2Fflink%5C%2Fflink-streaming-java%5C%2F1.20.0%5C%2Fflink-streaming-java-1.20.0-javadoc.jar%5C%21%5C%2F%3D%2F%3D%2Fmaven.groupId%3D%2Forg.apache.flink%3D%2F%3D%2Fmaven.artifactId%3D%2Fflink-streaming-java%3D%2F%3D%2Fmaven.version%3D%2F1.20.0%3D%2F%3D%2Fmaven.scope%3D%2Fprovided%3D%2F%3D%2Fmaven.pomderived%3D%2Ftrue%3D%2F%3Corg.apache.flink.streaming.api.environment%28StreamExecutionEnvironment.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "jdt" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:330)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1516)
+
+2026.06.29 20:34:42 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:42 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java
+2026.06.29 20:34:42 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:42 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:42 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:42 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:42 INFO  empty definition using pc, found symbol in pc: _empty_/StreamExecutionEnvironment#getExecutionEnvironment# (full report at: "/Users/zyb/project/coding-knowledge/.metals/.reports/metals-full/2026-06-29/r_empty-definition_20-34-33-188.md")
+2026.06.29 20:34:42 INFO  empty definition using pc, found symbol in pc: _empty_/StreamExecutionEnvironment#getExecutionEnvironment# (full report at: "/Users/zyb/project/coding-knowledge/.metals/.reports/metals-full/2026-06-29/r_empty-definition_20-34-33-188.md")
+2026.06.29 20:34:43 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:43 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:34:43 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:35:05 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:35:06 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:35:06 INFO  empty definition using pc, found symbol in pc: _empty_/StreamExecutionEnvironment#getExecutionEnvironment# (full report at: "/Users/zyb/project/coding-knowledge/.metals/.reports/metals-full/2026-06-29/r_empty-definition_20-34-33-188.md")
+2026.06.29 20:35:05 INFO  empty definition using pc, found symbol in pc: _empty_/StreamExecutionEnvironment#getExecutionEnvironment# (full report at: "/Users/zyb/project/coding-knowledge/.metals/.reports/metals-full/2026-06-29/r_empty-definition_20-34-33-188.md")
+2026.06.29 20:35:06 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:35:06 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:35:14 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:35:16 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:35:18 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:35:22 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java
+2026.06.29 20:35:22 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java. Using fallback presentation compiler.
+2026.06.29 20:35:22 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java. Using fallback presentation compiler.
+2026.06.29 20:35:22 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java. Using fallback presentation compiler.
+2026.06.29 20:35:30 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java. Using fallback presentation compiler.
+2026.06.29 20:35:40 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:35:40 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java
+2026.06.29 20:35:41 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:35:40 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:35:40 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:35:40 INFO  empty definition using pc, found symbol in pc: _empty_/StreamExecutionEnvironment#getExecutionEnvironment# (full report at: "/Users/zyb/project/coding-knowledge/.metals/.reports/metals-full/2026-06-29/r_empty-definition_20-34-33-188.md")
+2026.06.29 20:35:41 INFO  empty definition using pc, found symbol in pc: _empty_/StreamExecutionEnvironment#getExecutionEnvironment# (full report at: "/Users/zyb/project/coding-knowledge/.metals/.reports/metals-full/2026-06-29/r_empty-definition_20-34-33-188.md")
+2026.06.29 20:35:41 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:35:48 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:35:48 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:35:48 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:35:53 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:35:53 INFO  empty definition using pc, found symbol in pc: _empty_/StreamExecutionEnvironment#getExecutionEnvironment# (full report at: "/Users/zyb/project/coding-knowledge/.metals/.reports/metals-full/2026-06-29/r_empty-definition_20-34-33-188.md")
+2026.06.29 20:35:53 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:35:56 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:35:56 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:35:58 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:35:58 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:36:03 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:36:03 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:36:04 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:36:03 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:36:03 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:36:04 INFO  Created report: Optional[file:///Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java]
+2026.06.29 20:36:04 INFO  empty definition using pc, found symbol in pc: _empty_/SingleOutputStreamOperator# (full report at: "/Users/zyb/project/coding-knowledge/.metals/.reports/metals-full/2026-06-29/r_empty-definition_20-36-04-647.md")
+2026.06.29 20:36:04 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:36:06 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:36:06 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:36:06 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:36:06 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:36:07 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:36:07 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:36:07 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 20:36:07 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java. Using fallback presentation compiler.
+2026.06.29 20:36:07 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java
+2026.06.29 20:36:08 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java. Using fallback presentation compiler.
+6月 29, 2026 8:37:04 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 29, 2026 8:42:04 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 29, 2026 8:47:05 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 29, 2026 8:52:04 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 29, 2026 8:57:04 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2026.06.29 20:58:26 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java. Using fallback presentation compiler.
+2026.06.29 20:58:26 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java. Using fallback presentation compiler.
+2026.06.29 20:58:26 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java. Using fallback presentation compiler.
+2026.06.29 20:58:26 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java. Using fallback presentation compiler.
+6月 29, 2026 8:58:26 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 161
+2026.06.29 20:58:26 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java. Using fallback presentation compiler.
+2026.06.29 20:58:26 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java. Using fallback presentation compiler.
+2026.06.29 20:58:26 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java. Using fallback presentation compiler.
+2026.06.29 21:00:57 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java
+2026.06.29 21:00:57 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 21:00:57 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 21:00:57 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 21:00:57 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 21:00:57 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 21:00:58 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 21:00:57 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 21:00:59 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 21:00:59 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.29 21:01:00 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+6月 29, 2026 9:02:04 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 29, 2026 9:07:05 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 29, 2026 9:12:04 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 10:23:26 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 10:28:25 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 10:33:26 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 10:38:25 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 10:43:26 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 10:48:25 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 10:53:26 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 10:58:25 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 11:03:26 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 11:12:44 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 11:17:43 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 11:22:46 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 11:27:43 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 11:32:44 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 11:37:43 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 11:47:24 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2026.06.30 11:50:22 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+6月 30, 2026 11:52:22 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 1:46:22 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 1:51:21 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2026.06.30 13:56:12 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+6月 30, 2026 1:56:13 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 212
+2026.06.30 13:56:15 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+6月 30, 2026 1:56:22 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 1:56:58 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 1:57:04 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 1:57:13 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 1:57:38 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 1:57:39 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 2:00:27 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2026.06.30 14:00:51 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:00:51 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java
+2026.06.30 14:00:52 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:00:52 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:00:52 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:00:52 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:00:52 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:00:53 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:01:08 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:01:08 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java
+2026.06.30 14:01:08 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:01:08 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:01:09 INFO  Shutting down server
+2026.06.30 14:01:09 INFO  Memory monitor stopped
+2026.06.30 14:01:09 INFO  shutting down Metals
+2026.06.30 14:01:09 INFO  Exiting server
+2026.06.30 14:01:37 INFO  Started: Metals version 1.6.7 in folders '/Users/zyb/project/coding-knowledge' for client Trae 1.107.1.
+2026.06.30 14:01:42 INFO  Memory monitor started
+2026.06.30 14:01:45 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.06.30 14:01:45 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+6月 30, 2026 2:01:48 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1
+2026.06.30 14:01:48 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:01:48 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:01:48 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:01:49 WARN  no build tool detected in workspace '/Users/zyb/project/coding-knowledge'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.06.30 14:01:49 WARN  Build server is not auto-connectable.
+2026.06.30 14:01:49 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java
+2026.06.30 14:01:48 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+6月 30, 2026 2:01:49 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 3
+6月 30, 2026 2:01:49 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 7
+2026.06.30 14:01:49 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:01:49 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+6月 30, 2026 2:01:49 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 8
+6月 30, 2026 2:01:49 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 10
+2026.06.30 14:01:49 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:01:49 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+6月 30, 2026 2:01:50 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 2:01:50 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2026.06.30 14:01:50 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+6月 30, 2026 2:01:50 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2026.06.30 14:01:51 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:01:51 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+6月 30, 2026 2:01:51 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 22
+2026.06.30 14:01:51 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:01:51 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:01:52 INFO  time: code lens generation in 1.67s
+2026.06.30 14:01:53 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:01:53 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:01:55 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:01:56 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:01:58 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:02:13 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:02:13 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java
+6月 30, 2026 2:02:13 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 42
+2026.06.30 14:02:13 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:02:13 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:02:13 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java. Using fallback presentation compiler.
+2026.06.30 14:02:14 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java
+2026.06.30 14:02:14 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java. Using fallback presentation compiler.
+2026.06.30 14:02:14 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:02:28 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java
+2026.06.30 14:02:28 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java. Using fallback presentation compiler.
+2026.06.30 14:02:28 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+6月 30, 2026 2:03:15 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 2:03:15 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 2:03:17 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2026.06.30 14:04:58 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:05:24 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java
+2026.06.30 14:05:24 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java. Using fallback presentation compiler.
+2026.06.30 14:05:24 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java
+2026.06.30 14:05:24 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java. Using fallback presentation compiler.
+2026.06.30 14:05:25 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java
+2026.06.30 14:05:24 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java. Using fallback presentation compiler.
+2026.06.30 14:05:26 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java
+2026.06.30 14:05:27 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java. Using fallback presentation compiler.
+2026.06.30 14:05:40 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java
+2026.06.30 14:05:40 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java. Using fallback presentation compiler.
+2026.06.30 14:05:46 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java
+2026.06.30 14:05:46 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java. Using fallback presentation compiler.
+6月 30, 2026 2:06:21 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 2:11:28 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 2:16:21 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 2:21:21 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 2:26:21 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2026.06.30 14:28:28 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java
+2026.06.30 14:28:28 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+6月 30, 2026 2:28:29 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 67
+2026.06.30 14:28:28 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:28:29 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:28:28 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:28:28 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:28:28 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 14:32:26 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+6月 30, 2026 2:37:13 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 2:42:13 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 2:47:13 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 2:52:13 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 2:57:13 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 3:13:16 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 3:18:15 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 3:23:16 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 3:28:16 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2026.06.30 15:31:41 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java
+2026.06.30 15:31:41 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 15:31:41 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java. Using fallback presentation compiler.
+2026.06.30 15:31:43 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java
+2026.06.30 15:31:43 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 15:31:43 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCount.java. Using fallback presentation compiler.
+2026.06.30 15:31:49 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+6月 30, 2026 3:32:54 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 3:33:16 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 3:35:24 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 3:38:15 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 3:43:16 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 3:48:15 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 3:53:16 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 3:59:59 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2026.06.30 16:04:30 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:04:30 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java
+2026.06.30 16:04:30 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:04:30 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:04:31 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:04:31 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:04:31 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:04:32 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:04:35 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:04:35 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:04:36 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+6月 30, 2026 4:04:59 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2026.06.30 16:09:38 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:09:38 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java
+2026.06.30 16:09:38 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:09:39 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:09:38 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:09:39 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:09:38 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+6月 30, 2026 4:09:39 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 127
+2026.06.30 16:09:38 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:09:48 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+6月 30, 2026 4:09:59 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2026.06.30 16:10:50 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:10:50 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java
+2026.06.30 16:10:50 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:10:50 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:10:50 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:10:50 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+6月 30, 2026 4:14:58 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2026.06.30 16:15:41 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java
+2026.06.30 16:15:41 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:15:42 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:15:42 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+6月 30, 2026 4:19:59 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2026.06.30 16:24:54 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:24:55 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:24:55 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java
+2026.06.30 16:24:55 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:24:55 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:24:55 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:24:55 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:24:55 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+6月 30, 2026 4:24:55 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 154
+6月 30, 2026 4:24:55 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 153
+6月 30, 2026 4:24:56 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 157
+2026.06.30 16:24:55 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:24:55 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:24:56 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:24:57 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:24:56 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+6月 30, 2026 4:24:58 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2026.06.30 16:26:48 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:26:48 WARN  no build target for: /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java
+2026.06.30 16:26:48 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+2026.06.30 16:26:48 INFO  no build target found for /Users/zyb/project/coding-knowledge/flink/wordcount-java/src/main/java/com/koolearn/flink/wordcount/WordCountJob.java. Using fallback presentation compiler.
+6月 30, 2026 4:29:59 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 4:34:58 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 4:40:02 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 4:41:30 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 4:44:58 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 5:02:48 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+6月 30, 2026 5:07:47 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
