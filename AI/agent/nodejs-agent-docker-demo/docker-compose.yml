@@ -1,0 +1,9 @@
+services:
+  agent-demo:
+    build: .
+    container_name: nodejs-agent-docker-demo
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env
+    restart: unless-stopped

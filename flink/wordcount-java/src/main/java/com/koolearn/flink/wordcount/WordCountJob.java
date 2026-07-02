@@ -7,6 +7,7 @@ import org.apache.flink.api.common.functions.MapFunction;
 import org.apache.flink.api.common.functions.ReduceFunction;
 import org.apache.flink.api.java.functions.KeySelector;
 import org.apache.flink.streaming.api.datastream.DataStream;
+import org.apache.flink.streaming.api.datastream.SingleOutputStreamOperator;
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 import org.apache.flink.util.Collector;
 
@@ -43,7 +44,7 @@ public final class WordCountJob {
     
     DataStream<String> lines = env.fromCollection(jobArgs.textLines);
 
-    DataStream<WordCount> wordCounts =
+    SingleOutputStreamOperator<WordCount> wordCounts =
         lines
             .flatMap(new SplitToWords())
             .assignTimestampsAndWatermarks(WatermarkStrategy.noWatermarks())
