@@ -8,7 +8,7 @@
     "mode": "merge",
     "providers": {
       "vllm-cn": {
-        "baseUrl": "http://openproxy-cn.zuoyebang.cc/openproxy/rp/v1",
+        "baseUrl": "http://openproxy-cn.yukework.com/openproxy/rp/v1",
         "apiKey": "zyb-bd05e6f4eee90cbf4336b8c5265b76be@ugcdata_coding",
         "api": "openai-completions",
         "models": [
@@ -31,7 +31,7 @@
         ]
       },
       "anthropic": {
-        "baseUrl": "https://openproxy.zuoyebang.cc/openproxy/rp/pt/anthropic",
+        "baseUrl": "https://openproxy.yukework.com/openproxy/rp/pt/anthropic",
         "apiKey": "zyb-efa578f7e371a49dedc03a8b9a600147@yewuzhongtai_coding",
         "api": "anthropic-messages",
         "models": [
@@ -148,7 +148,7 @@
     "controlUi": {
       "allowInsecureAuth": true,
       "allowedOrigins": [
-        "https://ugc-data.zuoyebang.cc",
+        "https://ugc-data.yukework.com",
         "http://localhost:18889",
         "http://127.0.0.1:18889",
         "http://10.106.192.226:18889"
